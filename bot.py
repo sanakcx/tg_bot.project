@@ -13,10 +13,6 @@ Original file is located at
 
 
 
-git remote add origin https://github.com/sanakcx/tg_bot.project.git
-git branch -M main
-git push -u origin main
-
 import telebot
 from telebot import types
 from PIL import Image
